@@ -1,6 +1,6 @@
 # Facial-Landmark-Detection
 ## Big thanks to Idiot Developer: https://www.youtube.com/watch?v=WVOMGekzbWE
-## DATASET: Liu, Yinglu & Shi, Hailin & Shen, Hao & Si, Yue & Wang, Xiaobo & Mei, Tao. (2020). A New Dataset and Boundary-Attention Semantic Segmentation for Face Parsing. Proceedings of the AAAI Conference on Artificial Intelligence. 34. 11637-11644. 10.1609/aaai.v34i07.6832.
+## DATASET paper: Liu, Yinglu & Shi, Hailin & Shen, Hao & Si, Yue & Wang, Xiaobo & Mei, Tao. (2020). A New Dataset and Boundary-Attention Semantic Segmentation for Face Parsing. Proceedings of the AAAI Conference on Artificial Intelligence. 34. 11637-11644. 10.1609/aaai.v34i07.6832.
 ## DATASET LINK: https://github.com/jd-opensource/lapa-dataset
 
 ### Performance:
