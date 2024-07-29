@@ -10,3 +10,7 @@
   - Test loss: 0.66
     
 ![download](https://github.com/abdo-ashraf/Facial-Landmark-Detection/assets/88582125/8d82581c-50ab-40ba-8081-4160387f3f0d)
+## UPDATE
+using of streamlit framework to deploy the model
+![image](https://github.com/user-attachments/assets/bc72ec25-c5f1-43cf-8130-4574a0b19763)
+
